@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Mohammed Saeed 👋
-portfolio, backend
 ### Backend Developer
 
 I build reliable backend systems and APIs, work comfortably across relational and non-relational databases, and I'm equally at home containerizing and deploying what I build.
